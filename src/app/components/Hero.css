@@ -1,0 +1,34 @@
+.sr-hdng{
+    margin-bottom: 20px;
+}
+
+.sr-hdng-2{
+    margin-bottom: 48px;
+}
+
+.hero_py{
+    padding-bottom: 30px;
+}
+.btn-cursor{
+    cursor: pointer;
+}
+.nav-top-btn{
+    margin-top: 80px;
+}
+
+@media (max-width: 767px) {
+  .mobile-grpoup {
+    /* margin-top: 80px; */
+    margin-bottom: 0 !important;
+  }
+  .responsive-top-gap{
+    padding-top: 0;
+  }
+  .btn-margin{
+    margin-top: 20px;
+  }
+  .responsive-pb{
+    padding-bottom: 0;
+  }          
+  
+}
