@@ -34,42 +34,42 @@ export function Portfolio() {
   const projects: Project[] = [
     {
       id: 1,
-      title: "E-Commerce Website",
+      title: "VFX & Technical Assets",
       category: "Web Design",
       description:
-        "Modern e-commerce platform with seamless shopping experience",
+        "Modern VFX platform with seamless asset discovery experience.",
       image:
-        "https://images.unsplash.com/photo-1694599048261-a1de00f0117e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxlY29tbWVyY2UlMjB3ZWJzaXRlJTIwZGVzaWdufGVufDF8fHx8MTc3NTEwNTA0OHww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
-      tags: ["React", "Tailwind", "Stripe"],
-      link: "https://example.com",
-      github: "https://github.com",
+        "https://res.cloudinary.com/dir0vkqql/image/upload/v1775584444/faxault_evwyiu.png",
+      tags: ["HTML5", "CSS3", "Bootstrap", "JavaScript"],
+      link: "https://razadevloper.github.io/faxault/index.html",
+      github: "https://github.com/razadevloper/faxault",
       details:
-        "A fully responsive e-commerce platform featuring product catalog, shopping cart, checkout flow, and payment integration. Built with React and modern web technologies.",
+        "A modern VFX asset marketplace website featuring a dark, cinematic UI with smooth navigation and a strong hero section. It offers real-time visual effects resources with an interactive search bar, clean layout, and professional design focused on creators and developers.",
     },
     {
       id: 2,
-      title: "SaaS Landing Page",
-      category: "Landing Pages",
+      title: "Astarte Ventures",
+      category: "Web Design",
       description:
-        "Conversion-focused landing page for SaaS product",
+        "Empowering early-stage impact innovation",
       image:
-        "https://images.unsplash.com/photo-1760008486593-a85315610136?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxsYW5kaW5nJTIwcGFnZSUyMHdlYiUyMGRlc2lnbnxlbnwxfHx8fDE3NzUxNTQ1MDh8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
-      tags: ["Next.js", "TypeScript", "Framer Motion"],
-      link: "https://example.com",
-      github: "https://github.com",
+        "https://res.cloudinary.com/dir0vkqql/image/upload/v1775584603/Screenshot_181_htvoxp.png",
+      tags: ["HTML5", "CSS3", "Boostrap", "JavaScript"],
+      link: "https://razadevloper.github.io/astarte-ventures/",
+      github: "https://github.com/razadevloper/astarte-ventures",
       details:
-        "High-converting landing page with smooth animations, clear CTAs, and optimized for lead generation. Features include pricing tables, testimonials, and feature sections.",
+        "At Astarte Ventures, we have a proven track record of helping organizations, institutions, and funds create meaningful impact. With our deep expertise and commitment to driving positive change, we empower our clients to make a difference in their respective fields.",
     },
     {
       id: 3,
-      title: "Mobile App Interface",
-      category: "UI Design",
+      title: "Website Landing Page",
+      category: "Landing Page Design",
       description: "Clean and intuitive mobile app design",
       image:
-        "https://images.unsplash.com/photo-1661246627162-feb0269e0c07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtb2JpbGUlMjBhcHAlMjBpbnRlcmZhY2UlMjBkZXNpZ258ZW58MXx8fHwxNzc1MTE5NjEyfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
-      tags: ["Figma", "UI/UX", "Prototyping"],
-      link: "https://example.com",
-      github: "https://github.com",
+        "https://res.cloudinary.com/dir0vkqql/image/upload/v1775586030/Screenshot_182_yipmrq.png",
+      tags: ["HTML5", "CSS3", "Bootstrap", "JavaScript"],
+      link: "https://razadevloper.github.io/aspect-builders/",
+      github: "https://github.com/razadevloper/aspect-builders",
       details:
         "Complete mobile app interface design with user flows, wireframes, and high-fidelity mockups. Focus on usability and modern design principles.",
     },
