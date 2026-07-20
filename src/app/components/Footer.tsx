@@ -60,7 +60,10 @@ export function Footer() {
           <div>
             <h4 className="text-lg font-bold mb-4">Get in Touch</h4>
             <ul className="space-y-2 text-gray-400">
-              <li>freelanceraza9@gmail.com</li>
+              <li>
+                <a href="mailto:deltastudent31@gmail.com"></a>
+                deltastudent31@gmail.com
+              </li>
               <li>Kolkata, West Bengal India</li>
               <li className="pt-2">
                 <span className="inline-flex items-center gap-2 px-3 py-1 bg-green-500/20 text-green-400 rounded-full text-sm">
