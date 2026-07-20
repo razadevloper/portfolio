@@ -68,14 +68,10 @@ export function About() {
               Professional Summary
             </h3>
             <p className="text-gray-600 dark:text-gray-400 summary-cntnt leading-relaxed">
-              With 10 months of combined experience in web development and design, I specialize in
-              creating modern, responsive websites that not only look great but also provide
-              exceptional user experiences.
+              With 14 months of combined experience, including a 6-month internship and 8 months of professional experience, I specialize in designing and developing modern, responsive web applications. I enjoy building clean, user-friendly, and performance-driven digital experiences using modern web technologies.
             </p>
             <p className="text-gray-600 dark:text-gray-400 leading-relaxed">
-              My journey in web development started with a curiosity for how websites work, which
-              evolved into a passion for crafting digital solutions. I'm constantly learning new
-              technologies and staying updated with the latest design trends.
+              My journey began with a curiosity about how websites work and has grown into a passion for creating scalable, impactful web solutions. I continuously enhance my skills by learning new technologies and following the latest trends in web development and design.
             </p>
             <div className="flex flex-wrap mt-5 gap-3">
               <span className="px-4 py-2 bg-purple-100 dark:bg-purple-900/30 text-purple-700 dark:text-purple-400 rounded-full text-sm font-medium">
