@@ -101,7 +101,7 @@ export function Contact() {
                   <div>
                     <p className="text-sm text-gray-500 dark:text-gray-400">Email</p>
                     <p className="text-gray-900 dark:text-white font-semibold">
-                      freelanceraza9@gmail.com
+                      deltastudent31@gmail.com
                     </p>
                   </div>
                 </motion.div>
@@ -213,7 +213,7 @@ export function Contact() {
                   onChange={handleChange}
                   required
                   className="w-full px-4 py-3 rounded-lg border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-700 text-gray-900 dark:text-white focus:ring-2 focus:ring-purple-500 focus:border-transparent transition-all"
-                  placeholder="freelanceraza9@gmail.com"
+                  placeholder="deltastudent31@gmail.com"
                 />
               </div>
 
