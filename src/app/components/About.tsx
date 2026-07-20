@@ -11,25 +11,25 @@ export function About() {
     { name: "HTML5", icon: Code2, level: 95 },
     { name: "CSS3", icon: Palette, level: 90 },
     { name: "JavaScript", icon: Zap, level: 88 },
-    { name: "React", icon: Layers, level: 85 },
-    { name: "UI/UX Design", icon: Figma, level: 92 },
+    { name: "MERN STACK", icon: Layers, level: 70 },
+    // { name: "UI/UX Design", icon: Figma, level: 92 },
     { name: "Responsive Design", icon: Smartphone, level: 90 },
   ];
 
   const experience = [
     {
-      title: "Frontend Developer",
-      company: "Tech Startup Inc.",
-      period: "Jan 2026 - Present",
-      duration: "4 months",
-      description: "Building responsive web applications with React and TypeScript",
+      title: "Frontend Developer / Web Designer",
+      company: "Webskitters Technology Solutions Pvt. Ltd.",
+      period: "April 2025 - December 2025",
+      duration: "8 months",
+      description: "Designed and developed responsive web applications using HTML, CSS, and JavaScript. Worked closely with the team to build new features, improve performance, and ensure cross-browser compatibility while delivering quality web solutions.",
     },
     {
       title: "Web Developer Intern",
-      company: "Digital Agency Co.",
-      period: "Jul 2025 - Dec 2025",
+      company: "Webart Technology Pvt. Ltd.",
+      period: "Jul 2024 - Dec 2024",
       duration: "6 months",
-      description: "Assisted in creating landing pages and website redesigns",
+      description: "Developed responsive web pages, fixed UI issues, and implemented new features using HTML, CSS, and JavaScript while working closely with senior developers on real-world projects.",
     },
   ];
 
