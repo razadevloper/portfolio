@@ -1,6 +1,6 @@
 import { motion } from "motion/react";
 import { useInView } from "../hooks/UseInView";
-import { Code, Palette, Smartphone, Zap, Layout, Sparkles } from "lucide-react";
+import { Code, Palette, Smartphone, Zap, Layout, Sparkles, Database } from "lucide-react";
 import "./About.css";
 
 export function Services() {
