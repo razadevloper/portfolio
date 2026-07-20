@@ -32,11 +32,15 @@ export function Services() {
       color: "from-green-500 to-emerald-500",
     },
     {
-      icon: Palette,
-      title: "UI/UX Design",
-      description:
-        "Creating intuitive user interfaces and delightful experiences that keep your users engaged.",
-      features: ["User Research", "Wireframing", "Prototyping", "Testing"],
+      icon: Database,
+      title: "BACKEND DEVELOPMENT",
+      description: "Building secure, scalable, and high-performance backend systems with robust APIs, efficient databases, and reliable server-side architecture.",
+      features: [
+        "REST API Development",
+        "Database Design",
+        "Authentication & JWT",
+        "Server Optimization",
+    ],
       color: "from-orange-500 to-red-500",
     },
     {
