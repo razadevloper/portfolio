@@ -75,16 +75,16 @@ export function Portfolio() {
     },
     {
       id: 4,
-      title: "Corporate Website",
-      category: "Web Design",
-      description: "Professional corporate website with CMS",
+      title: "AI Finance Copilot",
+      category: "Web Design & Develop",
+      description: "AI-powered finance management platform with expense tracking, analytics, and AI-driven financial insights. Built using MERN Stack, Tailwind CSS, and Groq LLM.",
       image:
-        "https://images.unsplash.com/photo-1741119482290-bf0566a6d404?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx3ZWJzaXRlJTIwZGVzaWduJTIwbW9ja3VwJTIwbGFwdG9wfGVufDF8fHx8MTc3NTEyNzkyN3ww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
-      tags: ["WordPress", "PHP", "Custom Theme"],
-      link: "https://example.com",
-      github: "https://github.com",
+        "https://res.cloudinary.com/dir0vkqql/image/upload/v1784616402/Screenshot_254_qrojfh.png",
+      tags: ["React", "NodeJs", "MongoDb", "ExpressJs"],
+      link: "https://ai-finance-copilot-weld.vercel.app/",
+      github: "https://github.com/razadevloper/ai-finance-copilot",
       details:
-        "Multi-page corporate website with custom WordPress theme, blog functionality, and easy content management for non-technical users.",
+        "A full-stack AI finance application featuring JWT authentication, transaction management, category-wise analytics, monthly spending visualization, AI-powered financial insights, savings tips, and responsive dashboards built with React, Node.js, MongoDB, and Groq AI.",
     },
     {
       id: 5,
